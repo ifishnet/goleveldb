@@ -1,6 +1,6 @@
 This is an implementation of the [LevelDB key/value database](http:code.google.com/p/leveldb) in the [Go programming language](http:golang.org).
 
-[![Build Status](https://travis-ci.org/btcsuite/goleveldb.png?branch=master)](https://travis-ci.org/btcsuite/goleveldb)
+[![Build Status](https://travis-ci.org/ifishnet/goleveldb.png?branch=master)](https://travis-ci.org/ifishnet/goleveldb)
 
 **NOTE:** This is a fork/vendoring of https://github.com/syndtr/goleveldb
 The following documentation has been modified to point at this fork for
